@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jedallas/jedallas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After graduating from Harbin Insititute of Technology in June, 2019, I have been a master student in [Università della
+Svizzera italiana](https://www.usi.ch/en) majoring in artificial intelligence. This programe is collaborated with [IDSIA](http://www.idsia.ch/), one of the most prestigious labs concentrating on AI in this world.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
